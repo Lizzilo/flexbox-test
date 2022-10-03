@@ -1,32 +1,37 @@
 body {
-    position: relative;
-    width: 1152px;
-    height: 700px;
-    background: #370617;
+   background: #370617;
 }
 
-.firstblock {
-
+.container {
+    display: flex;
+    justify-content: space-around;
+      
 }
-
-.secondblock {
-
-}
-
-.thirdblock {
-
-}
-
-.fourthblock {
-
+.box1 {
+    width: 78px;
+    height: 78px;
+    left: 117px;
+    top: 153px;
+    background: #9D0208;
+    border-radius: 4px;
 
 }
 
-.fifthblock {
-
+.box2 {
+    width: 78px;
+    height: 78px;
+    left: 117px;
+    top: 153px;
+    background: #9D0208;
+    border-radius: 4px;
 }
 
-.sixthblock {
-
+.box3 {
+    width: 78px;
+    height: 78px;
+    left: 117px;
+    top: 153px;
+    background: #9D0208;
+    border-radius: 4px;
 
 }
