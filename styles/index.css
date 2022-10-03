@@ -10,20 +10,17 @@ body {
     top: 90px;
     background: #F48C06;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 8px;
-        
+    border-radius: 8px;     
 }
 
 .item1 {
     position: absolute;
     width: 78px;
     height: 78px;
-    left: 117px;
+    left: 127px;
     top: 153px;
     background: #9D0208;
-    border-radius: 4px;
-    
-    
+    border-radius: 4px   
 }
 
 .item2 {
@@ -33,8 +30,7 @@ body {
     left: 225px;
     top: 153px;
     background: #9D0208;
-    border-radius: 4px;
-    
+    border-radius: 4px;   
 }
 
 .item3 {
@@ -44,9 +40,7 @@ body {
     left: 323px;
     top: 153px;
     background: #9D0208;
-    border-radius: 4px;
-   
-
+    border-radius: 4px;  
 }
 
 .container2 {
@@ -91,4 +85,27 @@ body {
     background: #9D0208;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
     border-radius: 4px;
+}
+
+.container4 {
+    position: absolute;
+    width: 468px;
+    height: 160px;
+    left: 586px;
+    top: 270px;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+
+}
+
+.container5 {
+    position: absolute;
+    width: 468px;
+    height: 160px;
+    left: 98px;
+    top: 450px;
+    background: #F48C06;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
 }
