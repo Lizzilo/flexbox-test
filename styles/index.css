@@ -4,6 +4,9 @@ body {
 
 .container1 {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -13,6 +16,9 @@ body {
 
 .container2 {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -22,6 +28,9 @@ body {
 
 .container3 {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -31,6 +40,8 @@ body {
 
 .container4 {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -41,6 +52,8 @@ body {
 
 .container5 {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -50,6 +63,8 @@ body {
 
 .container6 {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     width: 468px;
     height: 160px;
     background: #F48C06;
