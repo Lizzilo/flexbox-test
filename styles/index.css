@@ -9,7 +9,6 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content:flex-start;
-    align-items: flex-end;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -116,6 +115,8 @@ body {
     background: #9D0208;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
     border-radius: 4px;
+    margin: 20px;
+    align-self: center;
 
 }
 
@@ -125,6 +126,8 @@ body {
     background: #9D0208;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
     border-radius: 4px;
+    margin: 20px;
+    align-self: center;
 }
 
 .item6 {
@@ -132,7 +135,10 @@ body {
     height: 78px;
     background: #9D0208;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 4px
+    border-radius: 4px;
+    margin: 20px;
+    align-self: center;
+    
 }
 
 .item7 {
