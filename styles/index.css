@@ -3,6 +3,7 @@ body {
 }
 
 .container1 {
+    display: flex;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -11,6 +12,7 @@ body {
 }
 
 .container2 {
+    display: flex;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -19,6 +21,7 @@ body {
 }
 
 .container3 {
+    display: flex;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -27,6 +30,7 @@ body {
 }
 
 .container4 {
+    display: flex;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -36,6 +40,7 @@ body {
 }
 
 .container5 {
+    display: flex;
     width: 468px;
     height: 160px;
     background: #F48C06;
@@ -44,6 +49,7 @@ body {
 }
 
 .container6 {
+    display: flex;
     width: 468px;
     height: 160px;
     background: #F48C06;
